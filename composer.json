@@ -1,5 +1,5 @@
 {
-  "name": "eveseat/web",
+  "name": "busa-git/seat-web",
   "description": "SeAT Web Interface",
   "license": "GPL-2.0",
   "authors": [
@@ -35,7 +35,7 @@
     "erusev/parsedown": "^1.7",
     "eveseat/eseye": "~2",
     "eveseat/eveapi": "^4.8",
-    "eveseat/services": "^4.1",
+    "busa-git/seat-services": "^4.1",
     "guzzlehttp/guzzle": "^6.3",
     "intervention/image": "^2.5",
     "laravel/framework": "^6.2",
