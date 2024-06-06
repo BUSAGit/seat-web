@@ -671,6 +671,6 @@ class WebServiceProvider extends AbstractSeatPlugin
      */
     public function getPackagistVendorName(): string
     {
-        return 'eveseat';
+        return 'busa-git';
     }
 }
